@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CIDemo\\web\\web.csproj",
+      "projectUniqueName": "C:\\CIDemo\\CIDemo\\web\\web.csproj",
       "projectName": "web",
-      "projectPath": "C:\\CIDemo\\web\\web.csproj",
+      "projectPath": "C:\\CIDemo\\CIDemo\\web\\web.csproj",
       "packagesPath": "C:\\Users\\mcmanusm\\.nuget\\packages\\",
-      "outputPath": "C:\\CIDemo\\web\\obj\\",
+      "outputPath": "C:\\CIDemo\\CIDemo\\web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
