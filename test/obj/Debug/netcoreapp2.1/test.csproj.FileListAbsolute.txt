@@ -1,0 +1,4 @@
+C:\CIDemo\CIDemo\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache
+C:\CIDemo\CIDemo\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+C:\CIDemo\CIDemo\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+C:\CIDemo\CIDemo\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
